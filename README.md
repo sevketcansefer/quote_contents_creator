@@ -20,10 +20,19 @@ This project is basic python training that aims create instagram quote contents 
 
 ## Some contents created by this creator:
 
+### Love argument given:
 ![Content-1](https://github.com/sevketcansefer/quote_contents_creator/blob/main/created_contents/01_03_2021_love.png "Love Category Content")
-#
+
+### Relationship argument given:
 ![Content-2](https://github.com/sevketcansefer/quote_contents_creator/blob/main/created_contents/01_03_2021_relationship.png "Relationship Category Content")
-#
+
+### Religion argument given:
 ![Content-3](https://github.com/sevketcansefer/quote_contents_creator/blob/main/created_contents/01_03_2021_religion.png "Religion Category Content")
-#
+
+### Poetry argument given:
 ![Content-4](https://github.com/sevketcansefer/quote_contents_creator/blob/main/created_contents/01_03_2021_poetry.png "Poetry Category Content")
+
+### God argument given:
+![Content-5](https://github.com/sevketcansefer/quote_contents_creator/blob/main/created_contents/01_03_2021_god.png "God Category Content")
+
+
